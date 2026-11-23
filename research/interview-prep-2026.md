@@ -2,6 +2,8 @@
 
 Research date: 23 Nov 2026. Sources neeche hain. Ye candidates ke apne experience posts hain (LeetCode, Glassdoor, Blind, blogs), to inko "pattern" samjho, guarantee nahi.
 
+Doosre candidates ke 35 real experiences (reject reasons, salary): [other-candidates-2026.md](other-candidates-2026.md)
+
 ## Short answer: pattern same hai kya?
 
 **Haan, 70% same hai.** Lagbhag har company mein ye 5 cheezein aati hain:
