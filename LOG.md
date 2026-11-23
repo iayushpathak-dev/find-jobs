@@ -3,7 +3,7 @@
 Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest upar.
 
 ## 23 Nov 2026 (thread: 12-day upskill plan)
-- 20:46 IST-eve: Ayush ne poocha: naya title, 12 din ka learning plan, aur mujhe teacher banke padhana.
+- 20:46 UTC: Ayush ne poocha: naya title, 12 din ka learning plan, aur mujhe teacher banke padhana.
 - Repo padha: market report, profile, shortlist.
 - AI SDK latest version check kiya: `ai` v7.0.180. v7 mein system prompt = `instructions`, route `createUIMessageStreamResponse({ stream: toUIMessageStream({ stream: result.stream }) })`.
 - Likha: `learning/README.md` (title "Senior Frontend Engineer (React, Next.js, AI)", 12-day plan 24 Nov-5 Dec, project JobMatch AI), `learning/day-01-llm-basics.md`.
