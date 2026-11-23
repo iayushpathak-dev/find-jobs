@@ -17,6 +17,8 @@ Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest u
 
 - 20:59 UTC: Ayush ne maanga: doosre candidates ka interview data. ~35 public posts padhe (Flipkart, Headout, Jio Hotstar, Freshworks, Delhivery, Netomi, CourseFinder, Kanerika, Fynd, Walmart, Atlassian, Intuit, LinkedIn, Uber, Amazon, OpenAI, xAI, Cursor, Cohere, Perplexity, Distyl, ResortPass, Swiggy/Razorpay/PhonePe/CRED). Raw: research/raw/2026-11-23-candidates-*.md. Summary: research/other-candidates-2026.md. Failed to load: Microsoft, Harness, Uber Glassdoor, Swiggy frontend-junction, Intuit articles.
 
+- 21:06 UTC: Ayush ne maanga: target companies ka candidate interview data. 12 companies search kiye, ~28 pages padhe. Files: jobs/companies/*.md (CONXAI, Mercari India, Mirantis, Hire Hangar, AppsForBharat, VuNet, Ken Research, Avya, no-data-yet for NeoScript/Metadesign/Electrolux/Mavvrik) + jobs/companies/README.md priority table. Findings: CONXAI = CEO + CTO rounds, a senior FE candidate got an offer there; Mercari SDE2 = 2 React problems on HackerRank; Avya low-pay reports; Ken Research is a research firm with old listing.
+
 ## Pending / kal
 - Ayush se case study numbers lene hain (list: research/case-study-and-blog-guide.md section 6).
 - Pehla blog saath mein likhna: RAG assistant routing.

@@ -14,4 +14,5 @@ Saari files:
 - [research/interview-prep-2026.md](research/interview-prep-2026.md): company type ke hisaab se rounds, real sawal, ChatGPT UI design answer
 - [research/case-study-and-blog-guide.md](research/case-study-and-blog-guide.md): companies kya dekhti hain, template, tumhare portfolio ke gaps, blog list
 - [research/other-candidates-2026.md](research/other-candidates-2026.md): doosre candidates ke interviews (35 posts), reject kyun hue, top sawal, salary
+- [jobs/companies/README.md](jobs/companies/README.md): target companies ka interview data + priority
 - [market/market-report-2026-11.md](market/market-report-2026-11.md): market aur salary
