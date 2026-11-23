@@ -20,7 +20,9 @@ Full list with links: [../jobs/shortlist.md](../jobs/shortlist.md)
 
 What this means for you: your React/Next.js depth is good and still in demand, but the best paid and growing roles now ask for "frontend + AI" or "product engineer" (frontend plus some backend plus AI).
 
-## 3. Salary range (India, 5-8 years frontend)
+## 3. Salary range (based on total experience)
+
+Total experience across all 4 companies: Jan 2020 to Nov 2026, about **6 years 10 months** (close to 7). So the right band is 5-8 years, and in about a year you move into the 8+ band. Job matching in this report also uses total experience, so roles asking for 5+ or 6+ years are a direct fit, and 8+ year roles are a small stretch.
 
 From GreatFrontEnd's 2026 guide:
 - Normal market: Rs 12-24 LPA
@@ -46,7 +48,7 @@ With 6+ years, Next.js depth and some AI work, aim for product companies and GCC
 
 **C. Profile fixes**
 - Make the resume say "Senior Frontend Engineer (React, Next.js, AI)" at the top so it matches AI-frontend searches.
-- Fix the 3+ vs 4+ years at FITPASS mismatch.
+- FITPASS years fixed to 4+ on the portfolio (PR: https://github.com/iayushpathak-dev/common-portfolio/pull/3).
 - Put numbers on Lighthouse and Core Web Vitals wins if you have them.
 - GitHub: most public repos are learning repos (DSA, JavaScript practice). Pin 2-3 strong projects with a README and live link, like the AI assistant and a Next.js app.
 - LinkedIn headline should match the resume.

@@ -3,7 +3,7 @@
 Source: https://www.ayushpathak.co.in and /resume (resume updated Aug 2026). PDF: https://www.ayushpathak.co.in/resume.pdf
 
 - **Title:** Senior Frontend Engineer
-- **Experience:** 6+ years (since Jan 2020)
+- **Total experience:** about 6 years 10 months across 4 companies (Jan 2020 to Nov 2026). Use this for all job matching and salary.
 - **Location:** Delhi NCR
 - **Looking for:** senior frontend and AI-focused frontend roles
 
@@ -27,4 +27,4 @@ MCA, Graphic Era Deemed University, Dehradun. BCA, Graphic Era Hill University, 
 
 ## Small things to fix on the portfolio
 
-- Homepage says "3+ years at FITPASS", the timeline says "4+ years". Nov 2022 to Nov 2026 is 4 years, so use 4.
+- Homepage said "3+ years at FITPASS", timeline said "4+". Fixed to 4+ in https://github.com/iayushpathak-dev/common-portfolio/pull/3
