@@ -15,6 +15,8 @@ Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest u
 - Day 1 lesson mein Gemini key option joda (Ayush ke paas already hai).
 - Ayush so gaye; bola sab GitHub par khud save karo. PR #1 merge kiya default branch mein.
 
+- 20:59 UTC: Ayush ne maanga: doosre candidates ka interview data. ~35 public posts padhe (Flipkart, Headout, Jio Hotstar, Freshworks, Delhivery, Netomi, CourseFinder, Kanerika, Fynd, Walmart, Atlassian, Intuit, LinkedIn, Uber, Amazon, OpenAI, xAI, Cursor, Cohere, Perplexity, Distyl, ResortPass, Swiggy/Razorpay/PhonePe/CRED). Raw: research/raw/2026-11-23-candidates-*.md. Summary: research/other-candidates-2026.md. Failed to load: Microsoft, Harness, Uber Glassdoor, Swiggy frontend-junction, Intuit articles.
+
 ## Pending / kal
 - Ayush se case study numbers lene hain (list: research/case-study-and-blog-guide.md section 6).
 - Pehla blog saath mein likhna: RAG assistant routing.
