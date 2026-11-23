@@ -75,7 +75,7 @@ Model confident hokar galat bol sakta hai, kyunki wo "sach" nahi, "agla likely w
 1. Node 22+ check karo: `node -v`
 2. pnpm na ho to: `npm i -g pnpm`
 3. API key: **Vercel AI Gateway** key banao (vercel.com par login, AI Gateway section, "Create API key"). Ek key se Claude, GPT, Gemini sab chalte hain, to provider badalna ho to sirf model ka naam badlega. Vercel kuch free credit deta hai, dashboard mein check kar lena.
-   - Doosra option: seedha Anthropic ya OpenAI ki key. Tab `@ai-sdk/anthropic` ya `@ai-sdk/openai` package lagega. Bata dena, code badal dunga.
+   - Doosra option: tumhare portfolio assistant mein already **Gemini key** hai. Wahi use karna ho to `pnpm add @ai-sdk/google`, `.env` mein `GOOGLE_GENERATIVE_AI_API_KEY=...`, aur code mein `import { google } from '@ai-sdk/google'` karke `model: google('<jo Gemini model tum assistant mein use karte ho>')`. Baaki code same rahega.
 4. **Key kabhi GitHub par push mat karna.** `.env` ko `.gitignore` mein daalo. (Interview mein bhi poochte hain: "API key frontend mein kyun nahi rakhte?" Jawab: browser mein jo bhi hai wo sab public hai.)
 
 ```bash

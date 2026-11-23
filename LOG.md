@@ -1,0 +1,22 @@
+# Work log
+
+Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest upar.
+
+## 23 Nov 2026 (thread: 12-day upskill plan)
+- 20:46 IST-eve: Ayush ne poocha: naya title, 12 din ka learning plan, aur mujhe teacher banke padhana.
+- Repo padha: market report, profile, shortlist.
+- AI SDK latest version check kiya: `ai` v7.0.180. v7 mein system prompt = `instructions`, route `createUIMessageStreamResponse({ stream: toUIMessageStream({ stream: result.stream }) })`.
+- Likha: `learning/README.md` (title "Senior Frontend Engineer (React, Next.js, AI)", 12-day plan 24 Nov-5 Dec, project JobMatch AI), `learning/day-01-llm-basics.md`.
+- PR #1 khola (branch claude/project-thread-j1la27 -> default branch).
+- Ayush: aaj sirf research. Interview rounds company type wise + companies case study/blog mein kya chahti hain.
+- Research kiya (web): ~25 pages: interview experiences (ServiceNow, MakeMyTrip, Flipkart, Headout, Walmart GCC, Atlassian, Razorpay, 40-company post), AI interview guides, AI tool policy in interviews, ChatGPT UI design question, case study/blog guides.
+- Portfolio poora padha (11 pages). Pata chala: 10+ case studies already hain, blog 0, numbers missing kai jagah, AI assistant already AI SDK v7 + Gemini + Upstash Vector par hai.
+- Likha: `research/interview-prep-2026.md`, `research/case-study-and-blog-guide.md`, `learning/day-02-streaming-chat-ui.md`, `TOMORROW.md`, raw notes `research/raw/*`.
+- Day 1 lesson mein Gemini key option joda (Ayush ke paas already hai).
+- Ayush so gaye; bola sab GitHub par khud save karo. PR #1 merge kiya default branch mein.
+
+## Pending / kal
+- Ayush se case study numbers lene hain (list: research/case-study-and-blog-guide.md section 6).
+- Pehla blog saath mein likhna: RAG assistant routing.
+- Day 1 lesson karwana. Day 3 lesson banana.
+- common-portfolio PR #3 (FITPASS 3+ -> 4+) abhi merge nahi hua.
