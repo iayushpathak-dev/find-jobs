@@ -2,6 +2,10 @@
 
 Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest upar.
 
+## 26 Nov 2026 (WPP)
+- 20:21 UTC: WPP recruiter (Sonali Chandra) ka Front End Engineer, Gurgaon onsite mail padha. Gmail mein reply draft banaya, resume attached (CTC 10.16 L, expected 18 L, notice 30 days). Ayush khud send karega.
+- WPP JD PDF padha + ~8 public reviews (Glassdoor, AmbitionBox). File: jobs/companies/wpp.md. Gaps: Storybook, Cypress, Redux, SASS. WPP interviews zyada projects + communication par.
+
 ## 23 Nov 2026 (thread: 12-day upskill plan)
 - 20:46 UTC: Ayush ne poocha: naya title, 12 din ka learning plan, aur mujhe teacher banke padhana.
 - Repo padha: market report, profile, shortlist.

@@ -6,6 +6,7 @@ Har company ki file mein: rounds, real sawal, result, salary (jahan mila), aur A
 
 | Company | Place | Data kitna mila | Expected rounds | Priority (meri raay) |
 |---|---|---|---|---|
+| [WPP](wpp.md) | Gurugram, onsite | Low (no frontend reviews; JD + recruiter mail mila) | HR -> 1-2 technical (React/Next, live coding) -> manager -> HR | **High**: recruiter ne khud contact kiya, NCR, Next.js match |
 | [CONXAI](conxai.md) | Gurugram | Medium (backend/ML reviews; ek senior frontend candidate ko offer mila) | CEO call -> CTO + senior eng technical | **High**: AI product, stack match, NCR |
 | [Mercari India](mercari-india.md) | Bengaluru hybrid | Medium (SDE2 Apr 2026 + job post) | HackerRank 2 React machine coding; take-home -> tech -> manager -> director | **High**: 5-8 yrs ask, Next.js, good pay band |
 | [Mirantis](mirantis.md) | Remote | Low (infra roles only) | HR -> 2 HMs technical -> VP | Medium: 8+ yrs ask, slow process, AI team |
