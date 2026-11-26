@@ -2,6 +2,12 @@
 
 Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest upar.
 
+## 26 Nov 2026 evening (thread: Naukri + LinkedIn apply session)
+- 14:31 UTC: Capgemini offer still on hold (~2 months). Plan: treat it as pending, keep applying in parallel.
+- Ayush will log in to Naukri + LinkedIn in the desktop app's browser pane; Claude fixes profiles, searches, fills forms. Submit only after Ayush's OK. Target 15-20 applications a day.
+- Wrote profile/naukri-linkedin-drafts.md (headline, About, skills for both). Not saved to the sites yet.
+- Wrote jobs/applications-tracker.md (rules + table).
+
 ## 26 Nov 2026 (thread: private job dashboard plan)
 - 03:21 UTC: Ayush: by weekend be ready to send applications from Monday. Wants a private jobs dashboard in the portfolio (one fixed user id + password), job priorities, mock interviews per job, chance-of-selection %, resume tailored per job (format coming), impact content from local projects. Research only for now.
 - Read existing repo research (shortlist, companies, profile, learning plan, portfolio raw read).
