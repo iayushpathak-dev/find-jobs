@@ -7,6 +7,7 @@ Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest u
 - Read existing repo research (shortlist, companies, profile, learning plan, portfolio raw read).
 - Web research: Next.js 16 auth (proxy.ts + data access checks), CVE-2025-29927, Upstash Redis free tier, Jobscan/ATS match-rate claims. Raw: research/raw/2026-11-26-dashboard-sources.md.
 - Wrote plan/job-dashboard-plan.md: login design (env hash + jose cookie + requireAdmin), storage (Upstash Redis, Zod job schema, import route), scoring 0-100, chance % = shortlist x clear-rounds, mock interview format, resume tailoring rules, project mining method, weekend schedule, 9 open questions.
+- 03:23 UTC: Ayush: keep learning my mental model (how I think, work, prompt) for a future product on human psychology. Created ideas/upcoming-product-mental-model.md, seeded from his messages so far. Grows every session.
 - Flagged: find-jobs repo is public; suggest making it private before salary/resume data.
 
 ## 23 Nov 2026 (thread: 12-day upskill plan)
