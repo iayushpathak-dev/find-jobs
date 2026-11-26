@@ -2,6 +2,14 @@
 
 Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest upar.
 
+## 26 Nov 2026 (thread: private job dashboard plan)
+- 03:21 UTC: Ayush: by weekend be ready to send applications from Monday. Wants a private jobs dashboard in the portfolio (one fixed user id + password), job priorities, mock interviews per job, chance-of-selection %, resume tailored per job (format coming), impact content from local projects. Research only for now.
+- Read existing repo research (shortlist, companies, profile, learning plan, portfolio raw read).
+- Web research: Next.js 16 auth (proxy.ts + data access checks), CVE-2025-29927, Upstash Redis free tier, Jobscan/ATS match-rate claims. Raw: research/raw/2026-11-26-dashboard-sources.md.
+- Wrote plan/job-dashboard-plan.md: login design (env hash + jose cookie + requireAdmin), storage (Upstash Redis, Zod job schema, import route), scoring 0-100, chance % = shortlist x clear-rounds, mock interview format, resume tailoring rules, project mining method, weekend schedule, 9 open questions.
+- 03:23 UTC: Ayush: keep learning my mental model (how I think, work, prompt) for a future product on human psychology. Created ideas/upcoming-product-mental-model.md, seeded from his messages so far. Grows every session.
+- Flagged: find-jobs repo is public; suggest making it private before salary/resume data.
+
 ## 23 Nov 2026 (thread: 12-day upskill plan)
 - 20:46 UTC: Ayush ne poocha: naya title, 12 din ka learning plan, aur mujhe teacher banke padhana.
 - Repo padha: market report, profile, shortlist.
@@ -20,6 +28,7 @@ Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest u
 - 21:06 UTC: Ayush ne maanga: target companies ka candidate interview data. 12 companies search kiye, ~28 pages padhe. Files: jobs/companies/*.md (CONXAI, Mercari India, Mirantis, Hire Hangar, AppsForBharat, VuNet, Ken Research, Avya, no-data-yet for NeoScript/Metadesign/Electrolux/Mavvrik) + jobs/companies/README.md priority table. Findings: CONXAI = CEO + CTO rounds, a senior FE candidate got an offer there; Mercari SDE2 = 2 React problems on HackerRank; Avya low-pay reports; Ken Research is a research firm with old listing.
 
 ## Pending / kal
+- Ayush ke 9 jawab chahiye (plan/job-dashboard-plan.md section 9). Resume format + local project folders bhi.
 - Ayush se case study numbers lene hain (list: research/case-study-and-blog-guide.md section 6).
 - Pehla blog saath mein likhna: RAG assistant routing.
 - Day 1 lesson karwana. Day 3 lesson banana.
