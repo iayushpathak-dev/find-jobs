@@ -8,6 +8,9 @@ Har step yahan likha jata hai, taaki ye repo memory ki tarah kaam kare. Newest u
 - Web research: Next.js 16 auth (proxy.ts + data access checks), CVE-2025-29927, Upstash Redis free tier, Jobscan/ATS match-rate claims. Raw: research/raw/2026-11-26-dashboard-sources.md.
 - Wrote plan/job-dashboard-plan.md: login design (env hash + jose cookie + requireAdmin), storage (Upstash Redis, Zod job schema, import route), scoring 0-100, chance % = shortlist x clear-rounds, mock interview format, resume tailoring rules, project mining method, weekend schedule, 9 open questions.
 - 03:23 UTC: Ayush: keep learning my mental model (how I think, work, prompt) for a future product on human psychology. Created ideas/upcoming-product-mental-model.md, seeded from his messages so far. Grows every session.
+- 03:31 UTC: Ayush said keep repo private and "ab tu kr jo tuje krna hai". Checked: repo still public at 03:33 (API private=false). Sent him the settings steps again.
+- Indeed search (6 searches, 9 JDs read). Scored 7 jobs + skipped list: jobs/scored-2026-11-26.md. Top: Deloitte Senior Consultant React Delhi (79), CONXAI (77, but Indeed date 29 Jun), Mercari (74). Pay and location scores are placeholders until Ayush answers.
+- Deloitte interview data (3 pages read, 1 failed). Sample mock: jobs/mocks/deloitte-senior-consultant-react.md (15 questions, 3 rounds). Raw: research/raw/2026-11-26-indeed-search.md.
 - Flagged: find-jobs repo is public; suggest making it private before salary/resume data.
 
 ## 23 Nov 2026 (thread: 12-day upskill plan)
